@@ -30,7 +30,7 @@
 
 ## 📫 Как со мной связаться
 
-- ![Static Badge](https://img.shields.io/badge/ErkinKraft-Profil?logo=gmail&color=white&link=https%3A%2F%2Ft.me%2FErkinKraft)
+- ![Static Badge](https://img.shields.io/badge/erkinworkmail%40gmail.com-profil?logo=gmail&color=white&link=erkinworkmail%40gmail.com)
 
 
 - ![Static Badge](https://img.shields.io/badge/ErkinKraft-Profil?logo=telegram&color=blue&link=https%3A%2F%2Ft.me%2FErkinKraft)
